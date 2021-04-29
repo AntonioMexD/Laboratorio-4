@@ -1,0 +1,13 @@
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\obj\Debug\netcoreapp3.1\Laboratorio 4.csprojAssemblyReference.cache
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\obj\Debug\netcoreapp3.1\Laboratorio 4.AssemblyInfoInputs.cache
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\obj\Debug\netcoreapp3.1\Laboratorio 4.AssemblyInfo.cs
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\obj\Debug\netcoreapp3.1\Laboratorio 4.csproj.CoreCompileInputs.cache
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\bin\Debug\netcoreapp3.1\Laboratorio 4.exe
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\bin\Debug\netcoreapp3.1\Laboratorio 4.deps.json
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\bin\Debug\netcoreapp3.1\Laboratorio 4.runtimeconfig.json
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\bin\Debug\netcoreapp3.1\Laboratorio 4.runtimeconfig.dev.json
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\bin\Debug\netcoreapp3.1\Laboratorio 4.dll
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\bin\Debug\netcoreapp3.1\Laboratorio 4.pdb
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\obj\Debug\netcoreapp3.1\Laboratorio 4.dll
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\obj\Debug\netcoreapp3.1\Laboratorio 4.pdb
+D:\I-2021\Arquitectura de Software\Laboratorio 4\Laboratorio 4\obj\Debug\netcoreapp3.1\Laboratorio 4.genruntimeconfig.cache
