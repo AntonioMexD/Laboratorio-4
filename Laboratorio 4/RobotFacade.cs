@@ -33,9 +33,9 @@ namespace Laboratorio_4
         }
         public void AssemblingRobotParts()
         {
-            Console.WriteLine("-----Assembling parts-----");
             ChooseColor();
             Console.Clear();
+            Console.WriteLine("-----Assembling parts-----");
             robotBody.AssembleBody();
             robotArms.AssembleArms();
             robotHands.AssembleHands();
@@ -44,6 +44,5 @@ namespace Laboratorio_4
             robotHead.AssembleHead();
             Console.WriteLine("-----Robot ready-----");
         }
-
     }
 }
